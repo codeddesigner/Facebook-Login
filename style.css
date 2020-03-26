@@ -1,0 +1,120 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e9ebee;
+}
+
+#header{
+    background-color: #3b5998;
+    height: 100px;
+}
+
+#tex{
+    color: white;
+    margin-left: 800px;
+    margin-top: -52px;
+}
+
+#f {
+    color: white;
+    margin-left: 187px;
+    margin-top: -13px;
+}
+a{
+    text-decoration: none;
+    color:rgb(18, 18, 145);
+}
+.st a {
+    color: white;
+    text-decoration: none;
+    ;
+}
+#te{
+    height: 20px;
+    border: 1px solid rgb(18, 18, 145);
+}
+#ima{
+    margin-left: 200px;
+    padding-top: 30px;
+}
+
+button[type=submit]{
+    border-style: none;
+    border: 1px solid rgb(23, 23, 143);
+    background-color: #4267b2;
+    color: white;
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    font-size: 15px;
+}
+
+
+/* Body Part */
+#sec{
+    margin-left: 770px;
+    letter-spacing: -1px;
+    
+}h1{
+    font-size: 30px;
+}
+
+h3{
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+/* Inputs in body */
+
+#fn{
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    height: 20px;
+    width: 200px;
+    font-size: 20px;
+}
+#fnn {
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    height: 20px;
+    width: 440px;
+    font-size: 20px;
+}
+ input::placeholder{
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+select{
+    width: 60px;
+    height: 30px;
+}
+
+button{
+    font-size: 20px;
+    color: white;
+    border-style: none;
+    background-color: forestgreen;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+   
+}
+
+#buu{
+     margin-left: 366px;
+     margin-top: -27px;
+}
+
+hr{
+    width: 400px;
+    margin-left: 2px;
+}
+
+#lab{
+    margin-top: -42px;
+    margin-left: 185px;
+}
